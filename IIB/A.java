@@ -5,7 +5,7 @@ public class A {
 	{
 		System.out.println("IIB");
 	}
-	
+	// deepu and badal
 	{
 		System.out.println("IIB2");
 	}
